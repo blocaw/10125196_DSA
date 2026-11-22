@@ -1,4 +1,4 @@
-# Buổi 01 – Đệ quy (và Ôn tập Chương 1, 2, 3)
+# Buổi 01 – Đệ quy 
 
 Họ tên: Bùi Tiến Lộc · MSV: 10125196
 
